@@ -1,0 +1,20 @@
+Order ID,Order Date,Ship Date,Customer Name,Segment,Product Category,Sales,Quantity,Discount,Profit
+1001,05-01-2023,08-01-2023,John Smith,Consumer,Electronics,250.5,2,0.05,45.2
+1003,07-01-2023,10-01-2023,Mike Davis,Corporate,Office Supplies,500.25,4,0,120.75
+1004,15-01-2023,18-01-2023,Emily Brown,Home Office,Technology,850,3,0.1,170.325
+1005,20-01-2023,23-01-2023,James Wilson,Consumer,Furniture,450.75,2,0,95.3
+1006,01-02-2023,05-02-2023,Robert Martinez,Corporate,Electronics,2100.5,5,0.15,420.1
+1007,10-02-2023,13-02-2023,Linda Garcia,Consumer,Office Supplies,825.375,3,0,180.4
+1008,15-02-2023,18-02-2023,David Lee,Home Office,Furniture,600.25,2,0.05,90.15
+1009,01-03-2023,05-03-2023,Jessica Chen,Consumer,Technology,1500,1,0.1,170.325
+1010,08-03-2023,12-03-2023,Thomas Anderson,Unknown,Electronics,800.75,4,0,160.25
+1011,15-03-2023,18-03-2023,Patricia Taylor,Corporate,Office Supplies,350.5,2,0.05,70.1
+1009,01-03-2023,05-03-2023,Jessica Chen,Consumer,Technology,1500,1,0.1,225
+1013,10-04-2023,13-04-2023,Jennifer Harris,Home Office,Electronics,950.25,2,0,190.05
+1014,20-04-2023,23-04-2023,Christopher Martin,Corporate,Technology,2500.75,5,0,500.15
+1015,05-05-2023,08-05-2023,Nancy Thompson,Consumer,Office Supplies,400,2,0.05,170.325
+1016,12-05-2023,15-05-2023,Daniel Jackson,Home Office,Furniture,550.5,1,0.1,82.75
+1017,20-05-2023,23-05-2023,Karen White,Consumer,Electronics,1100,3,0,220
+1019,10-06-2023,13-06-2023,Lisa Robinson,Consumer,Technology,650.25,2,0.05,97.54
+1020,20-06-2023,23-06-2023,Jason Rodriguez,Home Office,Office Supplies,500,3,0,100
+1018,01-06-2023,05-06-2023,Kevin Lopez,Corporate,Furniture,1800.5,4,0.15,360.1
